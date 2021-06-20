@@ -9,17 +9,17 @@ int main() {
 	
 	
 
-	cout << "A stupac: ";
+	cout << "A os-y: ";
 	cin >> temp;
 	p.set_stup_A(temp);
-	cout << "A redak: ";
+	cout << "A os-x: ";
 	cin >> temp;
 	p.set_red_A(temp);
 	
-	cout << "B stupac: ";
+	cout << "B os-y: ";
 	cin >> temp;
 	p.set_stup_B(temp);
-	cout << "B redak: ";
+	cout << "B os-x: ";
 	cin >> temp;
 	p.set_red_B(temp);
 	
